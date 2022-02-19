@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: wport-OCTOMANY
+Version: 1.0.0
+Summary: Common ports information fetcher for pentesting
+Home-page: https://github.com/Octomany/wport
+Author: Maxime Beauchamp
+Author-email: cybersecmax@outlook.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/Octomany/wport/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU GPLv3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# wport
+
+Quickly fetches the most common ports and service names information for pentesting. It uses the description and links to https://book.hacktricks.xyz/.
+
+usage : wport PORTorSERVICE
+

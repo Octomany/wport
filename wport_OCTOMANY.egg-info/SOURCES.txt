@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+wport_OCTOMANY.egg-info/PKG-INFO
+wport_OCTOMANY.egg-info/SOURCES.txt
+wport_OCTOMANY.egg-info/dependency_links.txt
+wport_OCTOMANY.egg-info/top_level.txt
