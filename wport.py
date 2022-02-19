@@ -16,9 +16,8 @@ description=textwrap.dedent('''\
     # Title : What port? *wport*                                                  #
     # Just a simple script to help pentesting the most common ports.              #
     #                                                                             #
-    # By : Maxime Beauchamp                                                       #
+    # By : Octomany, AKA Maxime Beauchamp                                         #
     # Last update : 02-22-2022                                                    #
-    # Feel free to connect with me on https://www.linkedin.com/in/maxbeauchamp/   #
     #                                                                             #
     # Special thanks to Carlos Polop for letting me use his descriptions & links  #
     # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
