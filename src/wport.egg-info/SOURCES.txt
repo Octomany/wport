@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+src/AllPorts.json
+src/wport.py
+src/wport.egg-info/PKG-INFO
+src/wport.egg-info/SOURCES.txt
+src/wport.egg-info/dependency_links.txt
+src/wport.egg-info/top_level.txt

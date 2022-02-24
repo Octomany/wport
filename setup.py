@@ -1,17 +1,19 @@
 import setuptools
 
-with open("README.md", "r", encoding="utf-8") as fh:
+with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="wport-OCTOMANY",
-    version="0.0.1",
+    name="wport",
+    version="0.0.3",
     author="Maxime Beauchamp",
-    author_email="cybersecmax@outlook.com",
+    author_email="<cybersecmax@outlook.com>",
     description="Common ports information fetcher for pentesting",
     long_description=long_description,
     long_description_content_type="text/markdown",
+    py_modules=["wport"],
     url="https://github.com/Octomany/wport",
+    keywords=['pentesting', 'ports','services'],
     package_data={
       'myapp': ['data/*.json'],
     },
