@@ -29,7 +29,7 @@ Arg = args.ARG
 ErrorNotFound = Fore.RED + "ERROR: port or service name not found." + Fore.WHITE
 
 # Read the dictionary file
-f = open('./src/AllPorts.json')
+f = open('AllPorts.json')
 data = json.load(f)
 f.close()
 
